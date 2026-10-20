@@ -1,0 +1,4 @@
+# 런처 exe·검수표는 GitHub Releases 에 첨부만 하고 저장소에는 올리지 않음
+*.exe
+*.xlsx
+_old/
