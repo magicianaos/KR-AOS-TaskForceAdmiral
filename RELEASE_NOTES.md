@@ -1,24 +1,24 @@
 <!--
 repo: magicianaos/KR-AOS-TaskForceAdmiral
-tag: v0.9.1
-title: 태스크 포스 애드미럴(Task Force Admiral) 한글패치 v0.9.1 (검수 베타)
+tag: v0.9.2
+title: 태스크 포스 애드미럴(Task Force Admiral) 한글패치 v0.9.2 (검수 베타)
 prerelease: true
-files: TaskForceAdmiral_KR_Patch_v0.9.1.exe, TaskForceAdmiral_KR_Review_v0.9.1.xlsx (두 파일 모두 끌어다 놓기)
+files: TaskForceAdmiral_KR_Patch_v0.9.2.exe, TaskForceAdmiral_KR_Review_v0.9.2.xlsx (두 파일 모두 끌어다 놓기)
 warn: 예전 v0.9 zip 은 수정된 게임 파일이 들어 있어 이번 버전부터 런처로 바꿨습니다. v0.9 릴리즈의 zip 은 내려 주세요.
 -->
-# 태스크 포스 애드미럴(Task Force Admiral) 한글패치 v0.9.1 (검수 베타)
+# 태스크 포스 애드미럴(Task Force Admiral) 한글패치 v0.9.2 (검수 베타)
 
 Task Force Admiral - Vol.1: American Carrier Battles (Steam) 비공식 한국어 패치입니다. 메뉴·HUD·지도·브리핑·무선 교신·시나리오 34개, 함선 부품과 함선·인물 이름까지 한국어로 옮겼습니다. 영어 모드는 원래 그대로입니다.
 
 ## 받을 파일
 
-- **TaskForceAdmiral_KR_Patch_v0.9.1.exe** — 한글패치 런처 (설치·되돌리기)
-- **TaskForceAdmiral_KR_Review_v0.9.1.xlsx** — 검수표 (오역·어색한 문장 제보용, 선택)
+- **TaskForceAdmiral_KR_Patch_v0.9.2.exe** — 한글패치 런처 (설치·되돌리기)
+- **TaskForceAdmiral_KR_Review_v0.9.2.xlsx** — 검수표 (오역·어색한 문장 제보용, 선택)
 
 ## 설치
 
 1. Steam에서 게임을 최신 상태로 두고 게임을 완전히 종료합니다. **Steam은 켜 두고 게임을 구매한 계정으로 로그인**해 둡니다.
-2. `TaskForceAdmiral_KR_Patch_v0.9.1.exe`를 실행합니다. Steam에 설치된 게임 폴더를 자동으로 찾습니다.
+2. `TaskForceAdmiral_KR_Patch_v0.9.2.exe`를 실행합니다. Steam에 설치된 게임 폴더를 자동으로 찾습니다.
 3. **[패치 설치하기]** 를 누릅니다. 1분 정도 걸리며 여유 공간이 약 300MB 필요합니다.
 4. 설치하면 게임 언어 설정이 한국어(Korean)로 바뀝니다. Steam에서 게임을 실행하면 한국어로 표시됩니다.
 
@@ -28,7 +28,7 @@ Task Force Admiral - Vol.1: American Carrier Battles (Steam) 비공식 한국어
 
 ## 지원 버전
 
-- Task Force Admiral 2026-10-15 업데이트 (Steam)
+- Task Force Admiral 2026-10-23 업데이트 (Steam)
 - 게임이 업데이트되면 런처가 설치를 멈춥니다. 새 패치를 기다려 주세요.
 
 ## 이번 버전 내용
@@ -50,7 +50,7 @@ Task Force Admiral - Vol.1: American Carrier Battles (Steam) 비공식 한국어
 - 전투를 불러올 때 메모리를 많이 씁니다(게임만 8GB 이상). 다른 프로그램을 닫고 실행해 주세요.
 - Steam이 꺼져 있거나 로그인하지 않았으면 설치되지 않습니다. 되돌리기는 Steam 없이도 됩니다.
 - 서명되지 않은 프로그램이라 Windows SmartScreen 경고가 뜰 수 있습니다. [추가 정보] → [실행]을 누르세요.
-- 서명되지 않은 파이썬 프로그램이라 일부 백신(머신러닝 판정)이 오탐할 수 있습니다. 아래 SHA-256 값과 [VirusTotal 검사](https://www.virustotal.com/gui/file/5a902a0eb7f15473a00426c570e3476df7df6bbf0a58bd6bf3d75dfe13e2d5b3)로 직접 확인하실 수 있습니다. 런처는 [제보하기]를 직접 누를 때 외에는 사용자 정보를 보내지 않습니다(새 패치 목록 확인만 합니다).
+- 서명되지 않은 파이썬 프로그램이라 일부 백신(머신러닝 판정)이 오탐할 수 있습니다. 아래 SHA-256 값과 [VirusTotal 검사](https://www.virustotal.com/gui/file/11f6a376eae29205c9b1d7a5d7285bccc5a4339a057fde6faaa9ab0e001e71ac)로 직접 확인하실 수 있습니다. 런처는 [제보하기]를 직접 누를 때 외에는 사용자 정보를 보내지 않습니다(새 패치 목록 확인만 합니다).
 
 ## 피드백
 
@@ -58,11 +58,11 @@ Task Force Admiral - Vol.1: American Carrier Battles (Steam) 비공식 한국어
 
 ## 파일 확인값 (SHA-256)
 
-- TaskForceAdmiral_KR_Patch_v0.9.1.exe (23,093,466바이트)
-  `5a902a0eb7f15473a00426c570e3476df7df6bbf0a58bd6bf3d75dfe13e2d5b3`
-- TaskForceAdmiral_KR_Review_v0.9.1.xlsx (302,862바이트)
-  `d86dbff28375ab605a712ee9f8378f2c5c83b0c82d7491e17c9532e5f50cccf2`
-- 설치 대상 원본 `bin\master\CarriersPlugin.dll` (2026-10-15 업데이트): `8e164b83bb86147cc76041aea40bdc65241cbcab7ccfa1bbc480f615da16593b`
-- 설치 결과 `bin\master\CarriersPlugin.dll`: `68367e06950a2ec8e7bb10e3f5d98311f4c420ac24d8d7568adfc387e9f6692b` (설치·확인 파일 109개)
+- TaskForceAdmiral_KR_Patch_v0.9.2.exe (24,041,867바이트)
+  `11f6a376eae29205c9b1d7a5d7285bccc5a4339a057fde6faaa9ab0e001e71ac`
+- TaskForceAdmiral_KR_Review_v0.9.2.xlsx (305,353바이트)
+  `249bc1557011a54a96c6d50454662a473dac20f44272c49bfc7045f05732c6d6`
+- 설치 대상 원본 `bin\master\CarriersPlugin.dll` (2026-10-23 업데이트): `6d0edd4bac3ee5398e034532c95aa514977a6b6fc2f5ae176095e85967f7765d`
+- 설치 결과 `bin\master\CarriersPlugin.dll`: `2c452483427bddab266ebf07fe9d5c53a2998dcec01e8becf29346cb28efb781` (설치·확인 파일 109개)
 
 배포 파일에는 게임 파일이 들어 있지 않으며, 런처가 내 PC에 설치된 정품 게임의 원본에 번역을 적용합니다. 한글 글꼴은 Noto Serif KR(SIL Open Font License 1.1)입니다. 비공식 팬 번역이며 게임의 저작권은 원 개발사·유통사에 있습니다.
